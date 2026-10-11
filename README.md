@@ -2,76 +2,39 @@
 
 ### Full-Stack Developer | Poet | Lifelong Learner
 
-> *A poet who loves to code poetically — turning ideas into experiences, problems into solutions, and thoughts into things that work.*
+I'm a developer who loves to code poetically. I enjoy turning ideas into working solutions, solving problems, and learning how technology can make everyday life a little easier.
 
-I'm a South African Full-Stack Developer who enjoys building practical, thoughtful software and continuously exploring what technology can make possible. With a background in Application Development, I love working across the stack, learning new technologies, and finding elegant ways to solve real-world problems.
+With a background in Application Development and experience building enterprise applications, I enjoy working across the stack, exploring new technologies, and finding better ways to approach problems. I'm always looking for opportunities to grow as an engineer and build things I'm proud of.
 
-Outside of code, I'm a poet fascinated by language, love, and the human experience. I bring that same curiosity and creativity into the way I build software.
+Outside of code, I'm a poet. I love words, storytelling, and exploring the human experience. I think there's something beautiful about the balance between creativity and logic — and I try to bring a little of both into everything I do.
 
----
+### 🛠️ Tech Stack
 
-## 💻 What I Work With
+- **Languages:** C#, Java, JavaScript, TypeScript
+- **Frameworks:** .NET, ASP.NET Core, Angular
+- **Databases:** SQL Server
+- **Tools:** Git, GitHub, Entity Framework Core, Swagger
 
-**Languages & Frameworks**
-- C# / .NET
-- Java
-- JavaScript / TypeScript
-- Angular
+### 🚀 What I'm Building
 
-**Databases & Tools**
-- SQL Server
-- Entity Framework Core
-- Git & GitHub
-- REST APIs
-- Swagger / OpenAPI
+Currently working on **LinkForge**, a URL shortener built with .NET 8 and SQL Server. It's an opportunity to strengthen my backend engineering skills while exploring API design, database management, testing, and cloud deployment.
 
-**Currently Exploring**
-- Cloud engineering and Azure
-- Software architecture and clean code
-- Building and deploying end-to-end applications
-- AI-powered software development
+I'm a big believer in learning by building, so you'll find projects here that reflect my curiosity, progress, and passion for software development.
 
----
+### 🌱 Beyond the Code
 
-## 🚀 What I'm Building
+- Always learning, experimenting, and finding new ways to grow.
+- Passionate about clean, maintainable software and thoughtful problem-solving.
+- A poet at heart, drawn to language, love, and the little things that make life meaningful.
+- Interested in cloud technologies, software architecture, and building solutions that matter.
 
-### 🔗 LinkForge — URL Shortener
+### 💭 A Little Philosophy
 
-A URL-shortening service I'm building to deepen my understanding of backend engineering, database design, API development, and cloud deployment.
+I believe there's an art to both writing poetry and writing code. Both require patience, curiosity, creativity, and the willingness to start again until something feels right.
 
-- **Backend:** C# and .NET 8
-- **Database:** SQL Server with Entity Framework Core
-- **API:** ASP.NET Core Minimal APIs
-- **Next up:** Angular frontend, testing, and Azure deployment
+I'm here to keep learning, keep creating, and keep becoming a better version of myself — one poem, one project, and one commit at a time.
 
-I'm building LinkForge step by step, focusing not just on getting things working, but on understanding the engineering decisions behind them.
-
----
-
-## 🌱 A Little More About Me
-
-- 🎓 Graduate in Computer and Information Sciences, specialising in Application Development.
-- 💼 Full-Stack Developer working on enterprise applications.
-- 🧩 I enjoy solving problems, learning through building, and writing maintainable code.
-- ✍🏽 Poet at heart — I believe there's an art to both writing and engineering.
-- 🌍 Interested in opportunities to grow, collaborate, and build software that makes a difference.
-
----
-
-## 📌 My Philosophy
-
-I believe good software is more than code that works. It's code that solves a real problem, is understandable to the next developer, and can grow as the needs around it change.
-
-I'm here to keep learning, keep building, and keep getting better — one problem, one poem, and one commit at a time.
-
----
-
-### 🤝 Let's Connect
-
-I'm always open to connecting with developers, collaborating on interesting projects, and exploring opportunities in software engineering.
-
-**Thanks for stopping by!** ⭐
-
+**Thanks for stopping by. Feel free to explore my work!** ✨
 <!--
 **Jilimba/Jilimba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
